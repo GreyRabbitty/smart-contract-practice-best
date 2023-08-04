@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 The EIP-20 token's `approve()` function creates the potential for an approved spender to spend more
 than the intended amount. A
 [front running attack](../../attacks/frontrunning.md) can be

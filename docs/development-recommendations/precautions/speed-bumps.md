@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 Speed bumps slow down actions, so that if malicious actions occur, there is time to recover. For
 example, [The DAO](https://github.com/slockit/DAO/) required 27 days between a successful request
 to split the DAO and the ability to do so. This ensured the funds were kept within the contract,

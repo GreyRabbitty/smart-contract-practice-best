@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 It can be useful to have a way to monitor the contract's activity after it was deployed. One way to
 accomplish this is to look at all transactions of the contract, however that may be insufficient,
 as message calls between contracts are not recorded in the blockchain. Moreover, it shows only the

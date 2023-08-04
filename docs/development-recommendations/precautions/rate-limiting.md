@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 Rate limiting halts or requires approval for substantial changes. For example, a depositor may only
 be allowed to withdraw a certain amount or percentage of total deposits over a certain time period
 (e.g., max 100 ether over 1 day) - additional withdrawals in that time period may fail or require

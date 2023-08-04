@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 Contracts should be deployed with the same compiler version and flags that they have been tested
 the most with. Locking the pragma helps ensure that contracts do not accidentally get deployed
 using, for example, the latest compiler which may have higher risks of undiscovered bugs. Contracts

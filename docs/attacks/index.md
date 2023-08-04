@@ -1,3 +1,7 @@
+!!! tip
+
+    Seeking more detailed information on smart contract attacks? The [Smart Contract Security Field Guide](https://scsfg.io/hackers/) offers an extensive range of attack strategies with in-depth explanations on vulnerabilities, including new code samples for a hands-on learning experience. Enhance your understanding and stay ahead of potential threats by visiting this continuously updated resource.
+
 The following is a list of known attacks which you should be aware of, and defend against when
 writing smart contracts.
 

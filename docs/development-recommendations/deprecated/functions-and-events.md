@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 ### Differentiate functions and events (Solidity \< 0.4.21)
 
 Favor capitalization and a prefix in front of events (we suggest *Log*), to prevent the risk of

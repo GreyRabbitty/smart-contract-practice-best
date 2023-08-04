@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 Avoid using `extcodesize` to check for Externally Owned Accounts.
 
 The following modifier (or a similar check) is often used to verify whether a call was made from an

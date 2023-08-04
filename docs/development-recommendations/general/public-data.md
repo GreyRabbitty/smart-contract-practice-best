@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 Many applications require submitted data to be private up until some point in time in order to
 work. Games (eg. on-chain rock-paper-scissors) and auction mechanisms (eg. sealed-bid
 [Vickrey auctions](https://en.wikipedia.org/wiki/Vickrey_auction)) are two major categories of

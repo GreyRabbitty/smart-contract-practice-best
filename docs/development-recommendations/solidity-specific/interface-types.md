@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 When a function takes a contract address as an argument, it is better to pass an interface or
 contract type rather than a raw `address`. If the function is called elsewhere within the source
 code, the compiler will provide additional type safety guarantees.

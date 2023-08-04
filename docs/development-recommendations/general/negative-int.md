@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 Solidity provides several types to work with signed integers. Like in most programming languages,
 in Solidity a signed integer with `N` bits can represent values from `-2^(N-1)` to `2^(N-1)-1`.
 This means that there is no positive equivalent for the `MIN_INT`. Negation is implemented as

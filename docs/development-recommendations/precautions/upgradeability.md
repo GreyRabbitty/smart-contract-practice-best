@@ -1,8 +1,6 @@
-!!! warning
-    Smart Contract upgradeability is an active area of research. There are many important
-    questions, and risks related to smart contract upgradeability. Do your research into the state of
-    the art. We welcome discussion on the
-    [related issue](https://github.com/ConsenSys/smart-contract-best-practices/issues/164).
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
 
 Code will need to be changed if errors are discovered or if improvements need to be made. It is no
 good to discover a bug, but have no way to deal with it.

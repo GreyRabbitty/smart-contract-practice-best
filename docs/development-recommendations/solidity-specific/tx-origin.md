@@ -1,3 +1,7 @@
+!!! tip
+
+    For comprehensive insights into secure development practices, consider visiting the [Development Recommendations](https://scsfg.io/developers/) section of the Smart Contract Security Field Guide. This resource provides in-depth articles to guide you in developing robust and secure smart contracts.
+
 Never use `tx.origin` for authorization, another contract can have a method which will call your
 contract (where the user has some funds for instance) and your contract will authorize that
 transaction as your address is in `tx.origin`.
